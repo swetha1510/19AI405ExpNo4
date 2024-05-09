@@ -204,7 +204,6 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
-
 <hr>
 <h2>Sample Input</h2>
 <hr>
@@ -225,7 +224,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
-
 
 <h2>RESULT :</h2>
 Implementing A * Search algorithm for a Graph using Python 3. is executed successfully.
